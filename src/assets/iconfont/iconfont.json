@@ -1,0 +1,30 @@
+{
+  "id": "2204668",
+  "name": "vue3",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "632970",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3216135",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "9473831",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    }
+  ]
+}
